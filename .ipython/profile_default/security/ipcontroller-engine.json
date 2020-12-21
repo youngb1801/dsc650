@@ -1,0 +1,16 @@
+{
+  "ssh": "",
+  "interface": "tcp://127.0.0.1",
+  "registration": 52987,
+  "control": 53735,
+  "mux": 60161,
+  "hb_ping": 42525,
+  "hb_pong": 51751,
+  "task": 39401,
+  "iopub": 42569,
+  "key": "f0b62004-4fbab67e19588fe388932745",
+  "location": "jupyter-youngb1801",
+  "pack": "json",
+  "unpack": "json",
+  "signature_scheme": "hmac-sha256"
+}
