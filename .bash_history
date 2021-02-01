@@ -73,3 +73,18 @@ git pull -u origin master
 git push origin master
 git add -all
 git add --all
+git init
+git add .
+git add .
+git commit -m "Add assignment 4"
+git push
+git add all
+git add *
+git commit -m "Add assignment05"
+git push
+git add *
+git add .
+git add all
+git add *
+git commit -m "Add assignment06"
+git push
