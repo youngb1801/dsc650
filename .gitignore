@@ -110,3 +110,4 @@ pip-wheel-metadata/
 /grading
 /assignments
 .idea/
+data/external/imdb/aclImdb/glove.6B.100d.txt
