@@ -122,3 +122,69 @@ git add *
 git commit -m "Add assignment06"
 git push
 >>>>>>> 1ecb29feacfa4769dc72f822adf9c6de16b91825
+git add *
+git add dsc650
+git commit -m 'add assignment08'
+youngb1801
+bayoung1801@gmail.com
+git commit -m 'add assignment08'
+git config --global user.email "bayoung1801@gmail.com"
+git config --global user.name "Bret"
+git commit -m 'add assignment08'
+git push
+git push https://github.com/youngb1801/dsc650.git
+git push --set-upstream https://github.com/youngb1801/dsc650.git master
+git push --set-upstream https://github.com/youngb1801/dsc650.git master
+git pull 
+git pull https://github.com/youngb1801/dsc650.git
+git rm -r folder-old_dsc650
+git rm -r old_dsc650
+git pull https://github.com/youngb1801/dsc650.git master
+git pull origin master --allow-unrelated-histories
+git remote add origin https://github.com/youngb1801/dsc650.git
+git inti
+git init
+git pull origin master
+git push origin master
+git pull origin master
+git pull origin master --allow-unrelated-histories
+git init
+git add --all
+git commit -m 'add assignment08'
+git push -u origin master
+wd
+git pull -r
+git commit -m 'add assignment08'
+git add --all
+git commit -m 'add assignment08'
+git init
+git add --all
+git commit -m 'add assignment08'
+git push origin master
+git pull origin
+git pull origin master
+git status
+git add
+git add .
+git status
+git commit -a
+git status
+git add dsc650
+git status
+git add -u
+git status
+git status
+git add .
+git status
+git commit -m 'add assignment08'
+git push origin master
+git pull origin master
+git clone https://github.com/youngb1801/dsc650.git
+git pull origin master --allow-unrelated-histories
+git init
+git add .
+git status
+git commit -m 'add assignment08'
+git push origin master
+pip install pyspark==3.0.1
+pip install pyspark==3.0.1
