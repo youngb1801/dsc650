@@ -188,3 +188,24 @@ git commit -m 'add assignment08'
 git push origin master
 pip install pyspark==3.0.1
 pip install pyspark==3.0.1
+pip install kafka==2.7.0
+pip install --force-reinstall pyskark==2.4.6
+pip install --force-reinstall pyspark==2.4.6
+pip install scala==2.12.10
+pip install pyspark==3.0.1
+conda install pyspark==3.0.1
+pip --version kafka
+pip --version kafka-python
+pip show kafka-python
+pip install kafka-python==2.7.0
+pip -u install kafka-python
+pip install --update kafka-python
+pip show pykafka
+conda install -c conda-forge kafka-python
+git init
+git add .
+git commit -m "add assignment09"
+git add assignments
+git add -A
+git commit -m "add assignment09"
+git push origin master
